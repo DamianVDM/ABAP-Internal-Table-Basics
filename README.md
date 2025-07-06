@@ -1,5 +1,5 @@
 # Instructions
-Note, All Content of this README comes from [Exercism](https://github.com/exercism/abap/blob/main/exercises/practice/itab-basics/.docs/instructions.md)
+Note, All Content of this README comes from Exercisms exercise [instructions.](https://github.com/exercism/abap/blob/main/exercises/practice/itab-basics/.docs/instructions.md)
 Learn the basics about ABAP internal tables.
 
 Your class has an internal table named `initial_data`. It has three columns: `GROUP`, `NUMBER`, and `DESCRIPTION`. 
